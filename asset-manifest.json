@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.739984b2.css",
-    "main.js": "/static/js/main.6bea42e4.js",
+    "main.css": "/static/css/main.3530a906.css",
+    "main.js": "/static/js/main.c65ae5f6.js",
     "static/media/portfolio.gif": "/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/arman_home.jpeg": "/static/media/arman_home.a3afafa924294d67a180.jpeg",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
@@ -23,6 +23,7 @@
     "static/media/GoogleSans-Medium.ttf": "/static/media/GoogleSans-Medium.963c3e555aaada9ef8a9.ttf",
     "static/media/GoogleSans-Bold.ttf": "/static/media/GoogleSans-Bold.d907e4bf3e32637a636e.ttf",
     "static/media/contactMail.png": "/static/media/contactMail.d4c9ac42fba95158a55c.png",
+    "static/media/UMasslogo.png": "/static/media/UMasslogo.b57722f56f50048da14d.png",
     "static/media/fa-solid-900.woff": "/static/media/fa-solid-900.3ef4f1acb44a2df412bf.woff",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/ibm_logo.png": "/static/media/ibm_logo.8204bba7daa4eedf644b.png",
@@ -35,6 +36,7 @@
     "static/media/iiitk_logo.png": "/static/media/iiitk_logo.170d558551a09a7d1620.png",
     "static/media/intel_logo.jpg": "/static/media/intel_logo.d7577f35a3dac4e5636d.jpg",
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.42a2cdaf132097cc499e.svg",
+    "static/media/heritageLogo.png": "/static/media/heritageLogo.f5c957e5f01de8a6d21e.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.f861b03b5a2d1a28c198.svg",
     "static/media/muffito_logo.png": "/static/media/muffito_logo.a40e290031eaf389bde1.png",
     "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.f5e1bd288e7a2b30a390.png",
@@ -64,11 +66,11 @@
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.1c2312558eb2e5f04a45.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
-    "main.739984b2.css.map": "/static/css/main.739984b2.css.map",
-    "main.6bea42e4.js.map": "/static/js/main.6bea42e4.js.map"
+    "main.3530a906.css.map": "/static/css/main.3530a906.css.map",
+    "main.c65ae5f6.js.map": "/static/js/main.c65ae5f6.js.map"
   },
   "entrypoints": [
-    "static/css/main.739984b2.css",
-    "static/js/main.6bea42e4.js"
+    "static/css/main.3530a906.css",
+    "static/js/main.c65ae5f6.js"
   ]
 }
